@@ -2,7 +2,7 @@
 
 fizz buzz in tensorflow
 
-this if a fork of: http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/
+this is a fork of: http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/
 
 Unlike that silly NN used in the blogpost, this model can achieve 100% accuracy:
 
@@ -18,3 +18,5 @@ Unlike that silly NN used in the blogpost, this model can achieve 100% accuracy:
  'buzz' 'fizz' '97' '98' 'fizz' 'buzz']
 1.0
 ```
+
+THIS WILL TOTALLY GENERALIZE!!!
